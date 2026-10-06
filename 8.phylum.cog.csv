@@ -1,0 +1,152 @@
+Sample,COG,Count,Translation,Count
+Thermoplasmatota,J,1621,"Translation, ribosomal structure and biogenesis",85.31578947
+Thermoplasmatota,S,572,Function unknown,30.10526316
+Thermoplasmatota,C,484,Energy production and conversion,25.47368421
+Thermoplasmatota,F,459,Nucleotide transport and metabolism,24.15789474
+Thermoplasmatota,H,350,Coenzyme transport and metabolism,18.42105263
+Thermoplasmatota,L,330,"Replication, recombination and repair",17.36842105
+Thermoplasmatota,K,274,Transcription,14.42105263
+Thermoplasmatota,E,254,Amino acid transport and metabolism,13.36842105
+Thermoplasmatota,I,213,Lipid transport and metabolism,11.21052632
+Thermoplasmatota,G,124,Carbohydrate transport and metabolism,6.526315789
+Thermoplasmatota,O,106,"Posttranslational modification, protein turnover, chaperones",5.578947368
+Thermoplasmatota,U,102,"Intracellular trafficking, secretion, and vesicular transport",5.368421053
+Thermoplasmatota,M,69,Cell wall/membrane/envelope biogenesis,3.631578947
+Thermoplasmatota,T,37,Signal transduction mechanisms,1.947368421
+Thermoplasmatota,Q,36,"Secondary metabolites biosynthesis, transport and catabolism",1.894736842
+Thermoplasmatota,D,35,"Cell cycle control, cell division, chromosome partitioning",1.842105263
+Thermoplasmatota,V,29,Defense mechanisms,1.526315789
+Thermoplasmatota,P,6,Inorganic ion transport and metabolism,0.315789474
+Thermoplasmatota,N,4,Cell motility,0.210526316
+Thermoplasmatota,Others,51,Others,2.684210526
+Pseudomonas,J,1343,"Translation, ribosomal structure and biogenesis",14.44086022
+Pseudomonas,S,758,Function unknown,8.150537634
+Pseudomonas,F,501,Nucleotide transport and metabolism,5.387096774
+Pseudomonas,M,389,Cell wall/membrane/envelope biogenesis,4.182795699
+Pseudomonas,C,384,Energy production and conversion,4.129032258
+Pseudomonas,U,280,"Intracellular trafficking, secretion, and vesicular transport",3.010752688
+Pseudomonas,H,207,Coenzyme transport and metabolism,2.225806452
+Pseudomonas,V,183,Defense mechanisms,1.967741935
+Pseudomonas,G,174,Carbohydrate transport and metabolism,1.870967742
+Pseudomonas,E,165,Amino acid transport and metabolism,1.774193548
+Pseudomonas,D,93,"Cell cycle control, cell division, chromosome partitioning",1
+Pseudomonas,K,93,Transcription,1
+Pseudomonas,L,93,"Replication, recombination and repair",1
+Pseudomonas,Q,93,"Secondary metabolites biosynthesis, transport and catabolism",1
+Pseudomonas,P,1,Inorganic ion transport and metabolism,0.010752688
+Pseudomonas,T,1,Signal transduction mechanisms,0.010752688
+Pseudomonas,Others,71,Others,0.76344086
+Actinomycetota,J,804,"Translation, ribosomal structure and biogenesis",11.16666667
+Actinomycetota,E,577,Amino acid transport and metabolism,8.013888889
+Actinomycetota,L,567,"Replication, recombination and repair",7.875
+Actinomycetota,K,443,Transcription,6.152777778
+Actinomycetota,H,423,Coenzyme transport and metabolism,5.875
+Actinomycetota,S,389,Function unknown,5.402777778
+Actinomycetota,F,299,Nucleotide transport and metabolism,4.152777778
+Actinomycetota,O,198,"Posttranslational modification, protein turnover, chaperones",2.75
+Actinomycetota,G,131,Carbohydrate transport and metabolism,1.819444444
+Actinomycetota,C,74,Energy production and conversion,1.027777778
+Actinomycetota,U,72,"Intracellular trafficking, secretion, and vesicular transport",1
+Actinomycetota,M,70,Cell wall/membrane/envelope biogenesis,0.972222222
+Actinomycetota,I,52,Lipid transport and metabolism,0.722222222
+Actinomycetota,V,12,Defense mechanisms,0.166666667
+Actinomycetota,D,3,"Cell cycle control, cell division, chromosome partitioning",0.041666667
+Actinomycetota,Others,118,Others,1.638888889
+Bacteroidota,J,792,"Translation, ribosomal structure and biogenesis",27.31034483
+Bacteroidota,S,614,Function unknown,21.17241379
+Bacteroidota,F,253,Nucleotide transport and metabolism,8.724137931
+Bacteroidota,M,219,Cell wall/membrane/envelope biogenesis,7.551724138
+Bacteroidota,H,199,Coenzyme transport and metabolism,6.862068966
+Bacteroidota,E,198,Amino acid transport and metabolism,6.827586207
+Bacteroidota,L,172,"Replication, recombination and repair",5.931034483
+Bacteroidota,O,170,"Posttranslational modification, protein turnover, chaperones",5.862068966
+Bacteroidota,I,167,Lipid transport and metabolism,5.75862069
+Bacteroidota,D,145,"Cell cycle control, cell division, chromosome partitioning",5
+Bacteroidota,U,143,"Intracellular trafficking, secretion, and vesicular transport",4.931034483
+Bacteroidota,C,88,Energy production and conversion,3.034482759
+Bacteroidota,G,85,Carbohydrate transport and metabolism,2.931034483
+Bacteroidota,K,80,Transcription,2.75862069
+Bacteroidota,P,65,Inorganic ion transport and metabolism,2.24137931
+Bacteroidota,Q,30,"Secondary metabolites biosynthesis, transport and catabolism",1.034482759
+Bacteroidota,T,27,Signal transduction mechanisms,0.931034483
+Bacteroidota,N,1,Cell motility,0.034482759
+Bacteroidota,V,1,Defense mechanisms,0.034482759
+Bacteroidota,Others,167,Others,5.75862069
+Acidobacteriota,J,855,"Translation, ribosomal structure and biogenesis",42.75
+Acidobacteriota,S,613,Function unknown,30.65
+Acidobacteriota,L,434,"Replication, recombination and repair",21.7
+Acidobacteriota,F,392,Nucleotide transport and metabolism,19.6
+Acidobacteriota,M,311,Cell wall/membrane/envelope biogenesis,15.55
+Acidobacteriota,H,294,Coenzyme transport and metabolism,14.7
+Acidobacteriota,E,211,Amino acid transport and metabolism,10.55
+Acidobacteriota,C,182,Energy production and conversion,9.1
+Acidobacteriota,D,174,"Cell cycle control, cell division, chromosome partitioning",8.7
+Acidobacteriota,K,173,Transcription,8.65
+Acidobacteriota,I,156,Lipid transport and metabolism,7.8
+Acidobacteriota,G,142,Carbohydrate transport and metabolism,7.1
+Acidobacteriota,O,135,"Posttranslational modification, protein turnover, chaperones",6.75
+Acidobacteriota,T,114,Signal transduction mechanisms,5.7
+Acidobacteriota,U,84,"Intracellular trafficking, secretion, and vesicular transport",4.2
+Acidobacteriota,Q,68,"Secondary metabolites biosynthesis, transport and catabolism",3.4
+Acidobacteriota,V,64,Defense mechanisms,3.2
+Acidobacteriota,P,63,Inorganic ion transport and metabolism,3.15
+Acidobacteriota,N,1,Cell motility,0.05
+Acidobacteriota,Others,149,Others,7.45
+Gemmatimonadota,J,1121,"Translation, ribosomal structure and biogenesis",70.0625
+Gemmatimonadota,S,765,Function unknown,47.8125
+Gemmatimonadota,F,452,Nucleotide transport and metabolism,28.25
+Gemmatimonadota,C,427,Energy production and conversion,26.6875
+Gemmatimonadota,M,411,Cell wall/membrane/envelope biogenesis,25.6875
+Gemmatimonadota,L,404,"Replication, recombination and repair",25.25
+Gemmatimonadota,E,379,Amino acid transport and metabolism,23.6875
+Gemmatimonadota,H,323,Coenzyme transport and metabolism,20.1875
+Gemmatimonadota,D,266,"Cell cycle control, cell division, chromosome partitioning",16.625
+Gemmatimonadota,O,236,"Posttranslational modification, protein turnover, chaperones",14.75
+Gemmatimonadota,K,213,Transcription,13.3125
+Gemmatimonadota,G,200,Carbohydrate transport and metabolism,12.5
+Gemmatimonadota,I,154,Lipid transport and metabolism,9.625
+Gemmatimonadota,U,112,"Intracellular trafficking, secretion, and vesicular transport",7
+Gemmatimonadota,P,111,Inorganic ion transport and metabolism,6.9375
+Gemmatimonadota,T,82,Signal transduction mechanisms,5.125
+Gemmatimonadota,Q,52,"Secondary metabolites biosynthesis, transport and catabolism",3.25
+Gemmatimonadota,V,34,Defense mechanisms,2.125
+Gemmatimonadota,Others,161,Others,10.0625
+Planctomycetota,J,983,"Translation, ribosomal structure and biogenesis",70.21428571
+Planctomycetota,S,639,Function unknown,45.64285714
+Planctomycetota,H,441,Coenzyme transport and metabolism,31.5
+Planctomycetota,L,383,"Replication, recombination and repair",27.35714286
+Planctomycetota,M,361,Cell wall/membrane/envelope biogenesis,25.78571429
+Planctomycetota,F,332,Nucleotide transport and metabolism,23.71428571
+Planctomycetota,E,283,Amino acid transport and metabolism,20.21428571
+Planctomycetota,C,213,Energy production and conversion,15.21428571
+Planctomycetota,I,177,Lipid transport and metabolism,12.64285714
+Planctomycetota,O,146,"Posttranslational modification, protein turnover, chaperones",10.42857143
+Planctomycetota,K,136,Transcription,9.714285714
+Planctomycetota,P,98,Inorganic ion transport and metabolism,7
+Planctomycetota,G,96,Carbohydrate transport and metabolism,6.857142857
+Planctomycetota,T,79,Signal transduction mechanisms,5.642857143
+Planctomycetota,V,79,Defense mechanisms,5.642857143
+Planctomycetota,U,73,"Intracellular trafficking, secretion, and vesicular transport",5.214285714
+Planctomycetota,D,65,"Cell cycle control, cell division, chromosome partitioning",4.642857143
+Planctomycetota,N,40,Cell motility,2.857142857
+Planctomycetota,Q,12,"Secondary metabolites biosynthesis, transport and catabolism",0.857142857
+Planctomycetota,Others,177,Others,12.64285714
+Chloroflexota,J,495,"Translation, ribosomal structure and biogenesis",45
+Chloroflexota,S,385,Function unknown,35
+Chloroflexota,L,242,"Replication, recombination and repair",22
+Chloroflexota,H,195,Coenzyme transport and metabolism,17.72727273
+Chloroflexota,C,173,Energy production and conversion,15.72727273
+Chloroflexota,F,154,Nucleotide transport and metabolism,14
+Chloroflexota,O,143,"Posttranslational modification, protein turnover, chaperones",13
+Chloroflexota,E,137,Amino acid transport and metabolism,12.45454545
+Chloroflexota,K,104,Transcription,9.454545455
+Chloroflexota,G,82,Carbohydrate transport and metabolism,7.454545455
+Chloroflexota,T,64,Signal transduction mechanisms,5.818181818
+Chloroflexota,P,61,Inorganic ion transport and metabolism,5.545454545
+Chloroflexota,M,60,Cell wall/membrane/envelope biogenesis,5.454545455
+Chloroflexota,I,56,Lipid transport and metabolism,5.090909091
+Chloroflexota,U,56,"Intracellular trafficking, secretion, and vesicular transport",5.090909091
+Chloroflexota,D,18,"Cell cycle control, cell division, chromosome partitioning",1.636363636
+Chloroflexota,Q,7,"Secondary metabolites biosynthesis, transport and catabolism",0.636363636
+Chloroflexota,V,4,Defense mechanisms,0.363636364
+Chloroflexota,Others,69,Others,6.272727273
